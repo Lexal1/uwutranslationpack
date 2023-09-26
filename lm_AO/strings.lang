@@ -1,0 +1,230 @@
+gui.done=Done
+gui.cancel=Cancel
+gui.toMenu=Back to Title Screen
+gui.up=Up
+gui.down=Down
+gui.yes=Yes
+gui.no=No
+gui.ok=OK
+
+menu.singleplayer=Singleplayer
+menu.multiplayer=Multiplayer
+menu.multiplayer.disabled=Multiplayer (not ready yet!)
+menu.mods=Texture Packs
+menu.options=Options...
+menu.quit=Quit Game
+menu.saveAndQuit=Save and quit to title
+
+gui.photomode.help_text=Click and drag to move and rotate.
+
+selectWorld.title=Select World
+selectWorld.empty=empty
+selectWorld.world=World
+selectWorld.moreWorldOptions=More World Options
+selectWorld.select=Play Selected World
+selectWorld.create=Create New World
+selectWorld.createDemo=Play New Demo World
+selectWorld.delete=Delete
+selectWorld.rename=Rename
+selectWorld.deleteQuestion=Are you sure you want to delete this world?
+selectWorld.deleteWarning=will be lost forever! (A long time!)
+selectWorld.deleteButton=Delete
+selectWorld.renameButton=Rename
+selectWorld.renameTitle=Rename World
+selectWorld.conversion=Must be Converted!
+selectWorld.outdated=Outdated - can't be loaded (yet!)
+selectWorld.newWorld=New World
+selectWorld.enterName=World Name
+selectWorld.gamemode=Mode:
+selectWorld.cheats=Cheats:
+selectWorld.worldType=World Type:
+selectWorld.worldTypeTitle=Select World Type
+selectWorld.enterSeed=Seed
+selectWorld.deleteTitle=Delete World
+
+level.generating=Generating Level
+level.loading=Loading Level
+
+controller.noControllerSelected=No controller selected!
+controller.back=Back
+controller.help1=If no controllers are detected, make sure to
+controller.help2=launch the game with the controller plugged in.
+
+selectServer.title=Play Multiplayer
+selectServer.connect=Join Server
+selectServer.ip=Direct Connect
+selectServer.add=Add Server
+selectServer.delete=Delete
+selectServer.refresh=Refresh
+selectServer.edit=Edit
+selectServer.renameServer=Rename Server
+selectServer.serverName=Server Name
+selectServer.serverIp=Server Address
+selectServer.deleteQuestion=Are you sure you want to remove this server?
+selectServer.deleteWarning=will be lost forever! (A long time!)
+
+addServer.title=Add Server
+addServer.serverName=Server Name
+addServer.ipAddress=IP Address
+addServer.save=Save
+
+dimension.overworld.name=the Overworld
+dimension.hell.name=the Nether
+dimension.paradise.name=Paradise
+
+season.overworld.spring.name=Spring
+season.overworld.summer.name=Summer
+season.overworld.fall.name=Fall
+season.overworld.winter.name=Winter
+season.overworld.hell.name=Hell
+season.overworld.winter.endless.name=Endless Winter
+season.paradise.gold.name=Gold
+season.paradise.silver.name=Silver
+season.null.name=No Season
+
+weather.overworld.clear.name=Clear
+weather.overworld.clear.hell.name=Clear
+weather.overworld.clear.woods.name=Clear
+weather.overworld.rain.name=Raining
+weather.overworld.snow.name=Snowing
+weather.overworld.winter.snow.name=Snowing
+weather.overworld.storm.name=Thundering
+weather.overworld.fog.name=Foggy
+
+gamemode.survival.name=Survival
+gamemode.creative.name=Creative
+
+worldType.overworld.extended.name=Extended Default
+worldType.overworld.extended.desc=The intended experience for\nBTA, featuring larger biomes and\ntaller worlds.
+worldType.overworld.default.name=Default
+worldType.overworld.default.desc=A more vanilla-like experience.
+worldType.nether.default.name=Default
+worldType.paradise.default.name=Default
+worldType.flat.name=Flat
+worldType.flat.desc=An infinite expanse of flat\ngrass.
+worldType.overworld.floating.name=Floating Islands
+worldType.overworld.floating.desc=A collection of dizzyingly tall\nfloating islands to explore.
+worldType.overworld.amplified.name=Amplified
+worldType.overworld.amplified.desc=Similar to Default, but allows\nterrain to generate up to 256\nblocks tall.
+worldType.overworld.retro.name=Retro
+worldType.overworld.retro.desc=Terrain generation as close as\npossible to Minecraft Alpha\n1.1.2_01.
+worldType.overworld.islands.name=Islands
+worldType.overworld.islands.desc=The sea level has been raised,\nturning the world into a series\nof islands with vast oceans\nbetween.
+worldType.overworld.winter.name=Endless Winter
+worldType.overworld.winter.desc=Similar to Default, but the snow\nnever stops piling up.
+worldType.overworld.hell.name=Hell
+worldType.overworld.hell.desc=This world ended long ago -\nsurvive it.
+worldType.overworld.woods.name=Woods
+worldType.overworld.woods.desc=Vast forests to explore.
+worldType.overworld.paradise.name=Paradise
+worldType.overworld.paradise.desc=Eternal sunshine and endless\nspring.
+worldType.empty.name=Empty
+worldType.empty.desc=Nothing but a single block of\nbedrock to get started.
+worldType.debug.name=Debug
+worldType.debug.desc=Generates every data value of\nevery block in the game (for\ntesting purposes.)
+worldType.overworld.inland.name=Inland
+worldType.overworld.inland.desc=Similar to Extended Default,\nbut with no oceans.
+worldType.overworld.classic.name=Classic
+worldType.overworld.classic.desc=Terrain generation similar to\nClassic, but infinite.
+
+multiplayer.title=Connect to IP
+multiplayer.connect=Connect
+multiplayer.info1=
+multiplayer.info2=
+multiplayer.ipinfo=Enter the IP of a server to connect to it:
+
+multiplayer.downloadingTerrain=Downloading Terrain
+
+multiplayer.stopSleeping=Leave Bed
+
+demo.day.1=This demo will last five game days, do your best!
+demo.day.2=Day Two
+demo.day.3=Day Three
+demo.day.4=Day Four
+demo.day.5=This is your last day!
+demo.day.warning=Your time is almost up!
+demo.day.6=You have passed your fifth day, use F2 to save a screenshot of your creation
+demo.reminder=The demo time has expired, buy the game to continue or start a new world!
+demo.help.movement=Use %1$s, %2$s, %3$s, %4$s and the mouse to move around
+demo.help.jump=Jump by pressing %1$s
+demo.help.inventory=Use %1$s to open your inventory
+
+connect.connecting=Connecting to the server...
+connect.authorizing=Logging in...
+connect.failed=Failed to connect to the server
+
+disconnect.genericReason=%s
+disconnect.disconnected=Disconnected by Server
+disconnect.lost=Connection Lost
+disconnect.kicked=Was kicked from the game
+disconnect.timeout=Timed out
+disconnect.closed=Connection closed
+disconnect.loginFailed=Failed to login
+disconnect.loginFailedInfo=Failed to login: %s
+disconnect.quitting=Quitting
+disconnect.endOfStream=End of stream
+disconnect.overflow=Buffer overflow
+
+damagetype.combat=Combat
+damagetype.projectile=Projectile
+damagetype.blast=Blast
+damagetype.fall=Fall
+damagetype.fire=Fire
+
+controls.title=Controls
+keybinds.title=Keybinds
+keybinds.info=Press Escape to Disable Keys
+
+texturePack.openFolder=Open Texture Pack Folder
+texturePack.title=Select Texture Pack
+texturePack.folderInfo=(Place texture pack files here)
+
+bed.occupied=This bed is occupied
+bed.noSleep=You can only sleep at night or during thunderstorms
+bed.setSpawn=Respawn point set
+bed.notValid=Your home bed was missing or obstructed
+
+sign.image.none=None
+sign.image.arrow_right=Right Arrow
+sign.image.arrow_left=Left Arrow
+sign.image.arrow_down=Down Arrow
+sign.image.arrow_up=Up Arrow
+sign.image.caution=Caution
+sign.image.mobs=Mobs
+sign.image.trees=Trees
+sign.image.chest=Chest
+sign.image.pickaxe=Pickaxe
+sign.image.wolf=Wolf
+sign.image.sword=Sword
+sign.image.hoe=Hoe
+sign.image.axe=Axe
+sign.image.shovel=Shovel
+sign.image.bowl=Bowl
+sign.image.tnt=TNT
+sign.image.mob_farm=Mob Farm
+sign.image.mine=Mine
+sign.image.redstone=Redstone
+sign.image.farm=Farm
+sign.image.barricade=Barricade
+sign.image.question_mark=Question Mark
+sign.image.face_smile=Smiley Face
+sign.image.face_sad=Sad Face
+sign.image.face_crying=Crying Face
+sign.image.face_gasp=Gasping Face
+sign.image.face_thinking=Thinking Face
+sign.image.face_confused=Confused Face
+sign.image.big_sign=Big Sign
+sign.image.mob_zombie=Zombie
+sign.image.mob_skeleton=Skeleton
+sign.image.mob_creeper=Creeper
+sign.image.one_player=One Player
+sign.image.two_players=Two Players
+sign.image.three_players=Three Players
+sign.image.cross=Cross
+sign.image.craft=Craft
+sign.image.afk=AFK
+sign.image.brb=BRB
+
+flag.full=You have too many flags on this map
+flag.overwrite=Cannot overwrite an existing pattern
+flag.copied=Flag pattern copied
